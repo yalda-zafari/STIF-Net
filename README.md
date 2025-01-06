@@ -1,2 +1,4 @@
-# STIF-Net
-Cross-task information fusion for improved stroke diagnosis
+
+# <p align=center>`Cross-Task Information Fusion for Improved Stroke Diagnosis`</p> #
+
+
